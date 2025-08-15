@@ -159,7 +159,7 @@ Released under the **MIT License**.
 ## 📷 Screenshots
 ### HTML Visualization Output
 
-![Visualization Example](LangExtract.png)
+![Visualization Example](LangExtract.gif)
 
 ---
 

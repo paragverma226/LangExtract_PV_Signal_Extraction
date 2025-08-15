@@ -1,0 +1,16 @@
+Case ID: AE-2025-001 
+Patient Information: 54-year-old female 
+Suspected Drug: DrugX 50mg daily for hypertension 
+Concomitant Medications: Metformin for diabetes, Aspirin 75mg daily 
+Adverse Events: Severe headache, dizziness, nausea 
+Seriousness Criteria: Hospitalization 
+Outcome: Recovered after discontinuation of DrugX 
+Reporter: Dr. John Smith, Cardiology Department, City Hospital 
+Date Reported: 15-Jan-2025 
+Narrative: 
+The patient reported experiencing severe headache and dizziness within two 
+days of starting DrugX 50mg daily. Symptoms persisted and worsened, leading 
+to hospitalization on 14-Jan-2025. Concomitant medications included 
+Metformin for diabetes and Aspirin 75mg daily for cardiac protection. DrugX 
+was discontinued during hospital stay, after which the patient recovered fully. 
+The case was reported by Dr. John Smith on 15-Jan-2025.

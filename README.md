@@ -157,21 +157,10 @@ Released under the **MIT License**.
 ---
 
 ## 📷 Screenshots
+### HTML Visualization Output
 
-### 1. Extraction Workflow
-
-![Workflow Diagram](docs/workflow.png)
-
-### 2. HTML Visualization Output
-
-![Visualization Example](docs/visualization_sample.png)
+![Visualization Example](LangExtract.png)
 
 ---
 
-```
-
----
-
-If you want, I can also **add the actual code snippet from your final deployed version into the README** so anyone who clones the repo can directly run it without digging through files.  
-Do you want me to include that?
 ```

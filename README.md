@@ -1,6 +1,8 @@
 # 📄 Pharmacovigilance Signal Extraction from PDF
 The Pharmacovigilance Signal Extraction from PDF project is designed to automate the identification and extraction of critical safety information from unstructured pharmacovigilance (PV) case reports stored in PDF format.
+
 In the drug safety domain, case processing teams manually review narrative reports to capture details such as patient demographics, suspected drugs, concomitant medications, adverse events, seriousness criteria, event outcomes, and reporting sources. This process is often time-consuming, error-prone, and resource-intensive.
+
 This system leverages LangExtract (an open-source Python library developed by Google), a Large Language Model (LLM)-powered extraction framework, combined with PyMuPDF for high-quality PDF text retrieval. Using a domain-specific prompt and curated training examples, the solution accurately identifies and structures relevant safety signals directly from raw text.
 
 ## 📌 Objective
